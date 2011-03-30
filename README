@@ -1,4 +1,7 @@
 RGM, the RubyGoMake, is a program which is a small make-like buildprogram with functions to compile, link and more.
+---News---
+Version 0.01 released:
+You can compile and link files automaticly. You must add the task by hand in the rgm.rb file.
 ---License---
 The license is the GPL Version 3.
 ---The Make File--
